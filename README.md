@@ -15,7 +15,7 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
 
 ## Projeyi klonlayın:
 ```
-git clone https://github.com/hermannKonyar/haber-veri-cekme.git
+git clone https://github.com/hermannKonyar/HaberVeriCekmeVeAnalizi.git
 
 ```
 
