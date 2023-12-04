@@ -14,17 +14,25 @@ Bu proje, belirli bir haber sitesinden haber verilerini çekmek, analiz etmek ve
 Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 ## Projeyi klonlayın:
-
+```
 git clone https://github.com/hermannKonyar/haber-veri-cekme.git
+
+```
 
 ## Gerekli kütüphaneleri yükleyin:
 
+```
 pip install -r requirements.txt
+
+```
 
 ## Projeyi çalıştırmak için aşağıdaki komutu kullanın:
 
+```
 
 python app.py
+
+```
 
 Bu komut, haber verilerini çeker, analiz eder ve MongoDB'ye kaydeder. Çıktıları logs/logs.log dosyasında ve word_frequency.png grafik dosyasında görebilirsiniz.
 
